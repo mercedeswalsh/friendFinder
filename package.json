@@ -1,5 +1,5 @@
 {
-  "name": "friendFinder",
+  "name": "friendfinder",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/mercedeswalsh/friendFinder/issues"
   },
-  "homepage": "https://github.com/mercedeswalsh/friendFinder#readme"
+  "homepage": "https://github.com/mercedeswalsh/friendFinder#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
 }
