@@ -20,7 +20,7 @@
 
 **Link to deployed version of app:**
 
-- https://mercedeswalsh.github.io/friendFinder/
+- https://intense-scrubland-53973.herokuapp.com/
 
 ---
 
